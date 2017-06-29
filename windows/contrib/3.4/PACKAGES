@@ -1,0 +1,9 @@
+Package: KoreanProjection
+Version: 0.1.2
+Depends: sp
+License: GPL-2
+
+Package: rskrpatch
+Version: 0.1.5
+License: GPL-2
+
